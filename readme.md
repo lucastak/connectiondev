@@ -39,7 +39,7 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 ```bash
   # Clone o repositório
   $ git clone https://github.com/lucastak/connectiondev
-  # Acessado a pasta do repositório
+  # Acessando a pasta do repositório
   $ cd ConnectionDev 
   # instalando as dependências
   $ yarn or npm install

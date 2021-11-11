@@ -34,7 +34,7 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
   # Clone o repositório
   $ git clone https://github.com/lucastak/connectiondev
   # Navegue até a pasta raiz do projeto
-  $ cd ConnectionDev 
+  $ cd connectiondev 
   # instalando as dependências
   $ yarn or npm install
   # Iniciar a aplicação

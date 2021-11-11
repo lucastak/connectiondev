@@ -4,7 +4,7 @@
   <img src="./git/connectiondev.gif">
 </h1>
 
-Projeto desenvolvido para treinar um pouco do que aprendi em um curso de React Native. A proposta é uma rede social simples similar ao Twitter. Para ficar mais interessante e praticar mais, procurei e vou procurar sempre ir adicionando novas funcionalidades e melhorando a usabilidade conforme for progredindo nos estudos de React-Native.
+Projeto desenvolvido para treinar um pouco do que aprendi em um curso de React Native. A proposta é uma rede social simples, similar ao Twitter. Para ficar mais interessante e praticar mais, procurei e vou procurar sempre adicionar novas funcionalidades e melhorando a usabilidade conforme for progredindo nos estudos de React Native.
 
 ---
 

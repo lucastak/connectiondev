@@ -8,12 +8,6 @@ Projeto desenvolvido para treinar um pouco do que aprendi em um curso de React N
 
 ---
 
-## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
----
-
 ### 📋 Pré-requisitos
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/) e [Android Studio](https://developer.android.com/studio) Instalado em seu computador.
@@ -39,12 +33,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 ```bash
   # Clone o repositório
   $ git clone https://github.com/lucastak/connectiondev
-  # Acessando a pasta do repositório
+  # Navegue até a pasta raiz do projeto
   $ cd ConnectionDev 
   # instalando as dependências
   $ yarn or npm install
-  # compilar o projeto no dispositivo
+  # Iniciar a aplicação
   $ npx react-native run-android
-  # Iniciar o projeto
-  $ npx react-native start
 ```
